@@ -1,4 +1,4 @@
-sideflow - a flow control extention for Selenium IDE
+sideflow - a flow control extension for Selenium IDE
 ===
 
 Let's you do goto and while loops in the Selenium IDE Firefox add-on. This is a Selenium
@@ -29,10 +29,14 @@ Commands
 Resources
 ---
 
-- Install and usage information [Blog](http://51elliot.blogspot.com/2008/02/selenium-ide-goto.html)
+- [Full Documentation](http://51elliot.blogspot.com/2008/02/selenium-ide-goto.html)
 - Selenium HQ [SeleniumHQ](http://seleniumhq.org/)
 
 Authors
 ---
 - Andrey Yegorov - original flow control extension
 - Darren DeRidder - Selenium IDE port
+
+License
+---
+- See the attached License document.
